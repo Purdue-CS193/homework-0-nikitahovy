@@ -3,6 +3,8 @@
 - The location of the class is next to the WALC
 - Working with GitHub 
 
+-----------------------------------------------------------------------------
+
   1. My name is Nikita Hovyadinov
   2. I am 18 years old and go to Purdue University; studying Computer Science
   3. I love cats and watching movies
